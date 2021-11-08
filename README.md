@@ -7,7 +7,8 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [HTML, CSS, C]
+   Frontend: [HTML, CSS],
+   Backend: [C]
    },
    currentOccupation: ["Fundation program student"],
    challenge: "I'm attemting to achieve a entire proyect in the first commit",
