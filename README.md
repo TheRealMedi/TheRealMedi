@@ -11,7 +11,7 @@ const aboutMe = {
    backEnd: [C]
    },
    currentOccupation: ["Fundation program student"],
-   challenge: "I'm attemting to achieve a entire proyect in the first commit",
+   challenge: "I'm attemting to achieve a entire proyect at the first commit",
 };
 ```
 </br></br>
