@@ -8,6 +8,7 @@
 const aboutMe = {
    pronouns: "he" | "him",
    frontEnd: [HTML, CSS],
+   BackEnd: [Python],
    Low Level: [C]
    },
    currentOccupation: ["Fundation program student"],
