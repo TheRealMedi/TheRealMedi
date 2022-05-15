@@ -1,15 +1,18 @@
 ### Hi there 👋  I'm Andrés "Medi" Medina 
 
-<p><em>an Apprentice at <a href="https://www.holbertonschool.com/">Holberton School Colombia</a>, in Software Engineering. 😊</br>
+<p><em>an Apprentice at <a href="https://www.holbertonschool.com/">Holberton School Colombia</a>, and I'm a Frontend Developer. 😊</br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   frontEnd: [HTML, CSS],
-   BackEnd: [Python],
-   Low Level: [C]
+   basics:         [HTML, CSS, JavaScript],
+   js_frameworks:  [React.js],
+   css_rameworks:  [Bootstrap],
+   database:       [Mysql],
+   backend:        [Python],
+   design:         [Photoshop, Illustrator, Adobe.XD, Figma]
    },
    currentOccupation: ["Fundation program student"],
    challenge: "I'm attemting to achieve a entire proyect at the first commit",
