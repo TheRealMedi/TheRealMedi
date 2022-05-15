@@ -15,7 +15,7 @@ const aboutMe = {
    design:         [Photoshop, Illustrator, Adobe.XD, Figma]
    },
    currentOccupation: ["Fundation program student"],
-   challenge: "I'm attemting to achieve a entire proyect at the first commit",
+   challenge: "Keep learning, keep forward!",
 };
 ```
 </br></br>
